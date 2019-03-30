@@ -10,7 +10,7 @@ using namespace std;
 
 //test for genre, plays with vector<t>
 template <typename T>
-void vector_iter(vector<T> testee) {
+void vector_iter_test(vector<T> testee) {
 	vector<T>::iterator iter;
 	for (iter = testee.begin(); iter != testee.end(); ++iter) {
 		cout << *iter << " ";
@@ -20,7 +20,7 @@ void vector_iter(vector<T> testee) {
 
 //test for genre_value with map<T1,T2>
 template <typename T1, typename T2>
-void map_iter(map<T1,T2> a) {
+void map_iter_test(map<T1,T2> a) {
 	map<T1, T2>::iterator iter;
 	for (iter = a.begin(); iter != a.end(); ++iter)
 		cout << "(" << (*iter).first << "," << (*iter).second << ")" << " ";
@@ -52,8 +52,8 @@ struct cmp {
 };
 
 vector<int> solution(vector<string> genres, vector<int> plays) {
-	/*vector_iter(genres);
-	vector_iter(plays);*/
+	/*vector_iter_test(genres);
+	vector_iter_test(plays);*/
 	map<string, int> genre_value;
 	vector<string> list;
 
@@ -66,7 +66,7 @@ vector<int> solution(vector<string> genres, vector<int> plays) {
 		}
 	}
 	map<string, int>::iterator iter4;
-	/*map_iter(genre_value);*/
+	/*map_iter_test(genre_value);*/
 	
 	priority_queue<int, vector<int>,less<int>> pq;
 
@@ -78,7 +78,7 @@ vector<int> solution(vector<string> genres, vector<int> plays) {
 	for (iter4 = genre_value.begin(); iter4 != genre_value.end(); ++iter4) {
 		value_genre.insert(make_pair((*iter4).second, (*iter4).first));
 	}
-	/*map_iter(value_genre);*/
+	/*map_iter_test(value_genre);*/
 
 	vector<string> ranked_genre;
 	int length = pq.size();
