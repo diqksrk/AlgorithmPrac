@@ -18,7 +18,7 @@ void vector_iter(vector<T> testee) {
 	cout << endl;
 }
 
-//test for genre_a
+//test for genre_value with map<T1,T2>
 template <typename T1, typename T2>
 void map_iter(map<T1,T2> a) {
 	map<T1, T2>::iterator iter;
