@@ -90,3 +90,56 @@ class Solution {
 		System.out.println(sol.solution(bridge_length, weight, truck_weights));
 	}
 }
+
+
+//another means
+import java.util.*;
+
+class tructWeight_time{
+	int truct_weight;
+	int flow_time;
+	public tructWeight_time(int truct_weight){
+		this.truct_weight=truct_weight;
+		this.flow_time=0;
+	}
+}
+
+class Solution {
+	 public int solution(int bridge_length, int weight, int[] truck_weights) {
+		 int answer=0;
+		 int sum=0;
+		 Stack<Integer> truct_weight=new Stack<>();
+		 Map<Integer, Integer> bridgeMap = new HashMap<>();
+		 List<Integer> test=new LinkedList<>();
+		 for (int i=truck_weights.length-1; i>=0; i--){
+			 truct_weight.push(truck_weights[i]);
+		 }
+		 while (true){
+			 answer++;
+			 if (bridgeMap.containsKey(answer)){
+				 bridgeMap.remove(answer);
+			 }
+			 sum=bridgeMap.values().stream().mapToInt(Number::intValue).sum();
+			 bridgeMap.values().stream().mapToInt(Number::intValue).forEach(System.out::println);
+			 
+			 if (!truct_weight.isEmpty()){
+				 if (sum+truct_weight.peek()<=weight){
+					 bridgeMap.put(answer+bridge_length, truct_weight.pop());
+				 }
+			 }
+			 if (bridgeMap.isEmpty() && truct_weight.isEmpty())
+				 break;
+		 }
+		 
+		 return answer;
+	 }
+	
+    public static void main(String[] args) {
+    	Solution sol=new Solution();
+    	int bridge_length=100;
+		int weight=100;
+		int[] truck_weights={10,10,10,10,10,10,10,10,10,10};
+		
+		System.out.println(sol.solution(bridge_length, weight, truck_weights));
+	}
+}
