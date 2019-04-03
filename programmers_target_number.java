@@ -39,3 +39,35 @@ class Solution {
     	sol.solution(numbers, target);
 	}
 }
+
+
+//second solving method
+import java.util.*;
+
+class Solution {
+	int dfs(int[] numbers, int depth, int sum, int target){
+		int answer=0;
+		if (depth==numbers.length){
+			if (sum==target){
+				return 1;
+			}else {
+				return 0;
+			}
+		}
+		return dfs(numbers,depth+1,sum+numbers[depth],target)+dfs(numbers,depth+1,sum-numbers[depth],target);
+	}
+	
+    public int solution(int[] numbers, int target) {
+        int answer=0;
+        answer=dfs(numbers,0,0,target);
+        return answer; 
+    }
+    
+    public static void main(String[] args) {
+    	int[] numbers={1,1,1,1,1};
+    	int target=3;
+    	
+    	Solution sol=new Solution();
+    	sol.solution(numbers, target);
+	}
+}
