@@ -28,7 +28,9 @@
 - 5월 5일 : 프로그래머스_두개뽑아서더하기 ( https://programmers.co.kr/learn/courses/30/lessons/68644 )
 
 푼 문제 현황 리스트
-- 5월 1일 : 프로그래머스_기능개발  (https://programmers.co.kr/learn/courses/30/lessons/42586)
+- 5월 1일 : 프로그래머스_기능개발  (https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+
+코드 리뷰 및 알고리즘 리뷰 한 문제
 
 ### `문제 풀이 규칙`
 1. 언어는 Python3로 정한다. 정하는 이유는 다음과 같다.
