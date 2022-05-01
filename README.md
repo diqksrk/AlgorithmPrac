@@ -27,6 +27,9 @@
 - 5월 4일 : 프로그래머스_주식가격 ( https://programmers.co.kr/learn/courses/30/lessons/42584 )
 - 5월 5일 : 프로그래머스_두개뽑아서더하기 ( https://programmers.co.kr/learn/courses/30/lessons/68644 )
 
+푼 문제 현황 리스트
+- 5월 1일 : 프로그래머스_기능개발  (https://programmers.co.kr/learn/courses/30/lessons/42586)
+
 ### `문제 풀이 규칙`
 1. 언어는 Python3로 정한다. 정하는 이유는 다음과 같다.
  1.1) 자료형을 선언하지 않게 하므로, 비즈니스 로직에만 초점을 두어 생산성을 향상시킨다.
