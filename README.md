@@ -29,6 +29,7 @@
 
 푼 문제 현황 리스트
 - 5월 1일 : 프로그래머스_기능개발  (https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+- 5월 2일 : 프로그래머스_프린터    ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_printer.py )
 
 코드 리뷰 및 알고리즘 리뷰 한 문제
 
