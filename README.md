@@ -32,7 +32,7 @@
 - 5월 2일 : 프로그래머스_프린터    ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_printer.py )
 - 5월 3일 : 프로그래머스_다리를지나는트럭 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_truck.py )
 - 5월 4일 : 프로그래머스_주식가격 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_stockPrice.py  ) 
-- 5월 5일 : 프로그래머스_두개뽑아서더하기 (  ) 
+- 5월 5일 : 프로그래머스_두개뽑아서더하기 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_addedNumber.py ) 
 
 코드 리뷰 및 알고리즘 리뷰 한 문제
 
