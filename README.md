@@ -34,6 +34,9 @@
 - 5월 4일 : 프로그래머스_주식가격 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_stockPrice.py  ) 
 - 5월 5일 : 프로그래머스_두개뽑아서더하기 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_addedNumber.py ) 
 
+추가로 푼 문제
+- 5월 5일 : 프로그래머스_더맵게 ( https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_scouvile.py ) 
+
 코드 리뷰 및 알고리즘 리뷰 한 문제
 
 ### `문제 풀이 규칙`
