@@ -21,7 +21,7 @@
 ### `5월 첫째주(2022-05-01 ~ 2022-05-07)`
 
 풀어야 하는 대분류 문제 : Stack or Queue 적용 문제
-- 5월 1일 : 프로그래머스_기능개발 (https://programmers.co.kr/learn/courses/30/lessons/42586)
+- 5월 1일 : [프로그래머스_기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 - 5월 2일 : 프로그래머스_프린터 ( https://programmers.co.kr/learn/courses/30/lessons/42587 )
 - 5월 3일 : 프로그래머스_다리를지나는트럭 ( https://programmers.co.kr/learn/courses/30/lessons/42583 )
 - 5월 4일 : 프로그래머스_주식가격 ( https://programmers.co.kr/learn/courses/30/lessons/42584 )
