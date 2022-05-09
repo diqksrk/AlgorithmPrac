@@ -34,7 +34,7 @@
 - 5월 4일 : [프로그래머스_주식가격](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_stockPrice.py) 
 - 5월 5일 : [프로그래머스_두개뽑아서더하기](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_addedNumber.py) 
 
-### `5월 째주(2022-05-07 ~ 2022-05-14)`
+### `5월 둘째주(2022-05-07 ~ 2022-05-14)`
 - 5월 7일 : 
 - 5월 8일 : 
 - 5월 9일 : 
