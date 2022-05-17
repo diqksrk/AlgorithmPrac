@@ -35,9 +35,8 @@
 - 5월 5일 : [프로그래머스_두개뽑아서더하기](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_addedNumber.py) 
 
 ### `5월 둘째주(2022-05-07 ~ 2022-05-14)`
-- 5월 7일 : 
-- 5월 8일 : 
-- 5월 9일 : 
+프로젝트가 바빠진 관계로 잠시 중단한다. 중단 기한은 5월 20일까지이며 해당 프로젝트에 집중을 위해 중단한다.
+5월 20일 중단이후 다시 재개하는것으로 계획한다.
 
 추가로 푼 문제
 - 5월 5일 : [프로그래머스_더맵게](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_scouvile.py) 
