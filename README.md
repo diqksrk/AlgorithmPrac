@@ -34,6 +34,9 @@
 - 5월 4일 : [프로그래머스_주식가격](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_stockPrice.py) 
 - 5월 5일 : [프로그래머스_두개뽑아서더하기](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/progammers_addedNumber.py) 
 
+추가로 푼 문제
+- 5월 5일 : [프로그래머스_더맵게](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_scouvile.py) 
+
 ### `5월 둘째주(2022-05-07 ~ 2022-05-14)`
 프로젝트가 바빠진 관계로 잠시 중단한다. 중단 기한은 5월 20일까지이며 해당 프로젝트에 집중을 위해 중단한다.
 5월 20일 중단이후 다시 재개하는것으로 계획한다.
@@ -54,8 +57,9 @@
 - 5월 25일 : [프로그래머스_네트워크](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/network.java)
 - 5월 26일 : 프로그래머스_순위
 
-추가로 푼 문제
-- 5월 5일 : [프로그래머스_더맵게](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_scouvile.py) 
+### `5월 마지막주(2022-05-22 ~ 2022-05-28)`
+이제 leetcode문제를 섞을 예정이다. 프로그래머스 3, leetcode문제 2순으로 한다.
+주제는 정렬에 대해 부족하다 생각하므로, 정렬문제 + Priority Queue를 다룰수 있는 문제로 하려고 한다.
 
 코드 리뷰 및 알고리즘 리뷰 한 문제
 
