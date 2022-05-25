@@ -49,10 +49,10 @@
 
 푼 문제 현황 리스트
 - 5월 22일 : [프로그래머스_디스크컨트롤러](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_disk_controller.py)
-- 5월 23일 : [프로그래머스_가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
-- 5월 24일 : [프로그래머스_모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-- 5월 25일 : [프로그래머스_네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
-- 5월 26일 : [프로그래머스_순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+- 5월 23일 : [프로그래머스_가장 먼 노드](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/Node.java)
+- 5월 24일 : [프로그래머스_모의고사](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/exam.java)
+- 5월 25일 : [프로그래머스_네트워크](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/network.java)
+- 5월 26일 : 프로그래머스_순위
 
 추가로 푼 문제
 - 5월 5일 : [프로그래머스_더맵게](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_scouvile.py) 
