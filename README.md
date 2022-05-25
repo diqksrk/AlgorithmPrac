@@ -57,7 +57,7 @@
 - 5월 25일 : [프로그래머스_네트워크](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/network.java)
 - 5월 26일 : 프로그래머스_순위
 
-### `5월 마지막주(2022-05-22 ~ 2022-05-28)`
+### `5월 마지막주(2022-05-30 ~ )`
 이제 leetcode문제를 섞을 예정이다. 프로그래머스 3, leetcode문제 2순으로 한다.
 주제는 정렬에 대해 부족하다 생각하므로, 정렬문제 + Priority Queue를 다룰수 있는 문제로 하려고 한다.
 
