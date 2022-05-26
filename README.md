@@ -55,7 +55,7 @@
 - 5월 23일 : [프로그래머스_가장 먼 노드](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/Node.java)
 - 5월 24일 : [프로그래머스_모의고사](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/exam.java)
 - 5월 25일 : [프로그래머스_네트워크](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/network.java)
-- 5월 26일 : 프로그래머스_이중우선순위
+- 5월 26일 : [프로그래머스_이중우선순위](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/duplPriorityQueue.java)
 
 ### `5월 마지막주(2022-05-30 ~ )`
 이제 leetcode문제를 섞을 예정이다. 프로그래머스 3, leetcode문제 2순으로 한다.
