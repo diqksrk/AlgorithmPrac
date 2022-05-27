@@ -62,7 +62,9 @@
 주제는 정렬에 대해 부족하다 생각하므로, 정렬문제 + Priority Queue를 다룰수 있는 문제로 하려고 한다.
 
 코드 리뷰 및 알고리즘 리뷰 한 문제
-
+- 5월 22일 : [프로그래머스_디스크컨트롤러](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/programmers_disk_controller.py)
+- 5월 23일 : [프로그래머스_가장 먼 노드](https://github.com/diqksrk/AlgorithmPrac/blob/master/programmers/Node.java)
+- 
 ### `문제 풀이 규칙`
 /*
 1. 언어는 Python3로 정한다. 정하는 이유는 다음과 같다.
