@@ -15,7 +15,7 @@ class Solution {
                 continue;
             }
 
-            if (direction.equals("I")) {
+            if (direction.equals("I") || direction.equals("J") ) {
                 pq.offer(value);
                 maxpq.offer(value);
                 continue;
